@@ -1,2 +1,2 @@
-# caesercipher
-Caeser Cipher - #100DaysOfCode - Day 7
+# Caesar Cipher
+Caesar Cipher - #100DaysOfCode - Day 7
